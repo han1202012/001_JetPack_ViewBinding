@@ -1,8 +1,8 @@
-#【JetPack 架构组件】ViewBinding 视图绑定组件 ( 启用模块 | 视图绑定定制 | 绑定类名称生成规则 | 绑定类字段生成规则 | 绑定类获取根视图 | 绑定类获取布局组件 )
+# 【JetPack 架构组件】ViewBinding 视图绑定组件 ( 启用模块 | 视图绑定定制 | 绑定类名称生成规则 | 绑定类字段生成规则 | 绑定类获取根视图 | 绑定类获取布局组件 )
+
 
 https://hanshuliang.blog.csdn.net/article/details/105044345
 
-@[TOC]
 
 
 <br>
